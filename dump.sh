@@ -1,3 +1,7 @@
+# Set up Git identity
+git config --global user.name "Hendra Manudinata"
+git config --global user.email "hendralize@gmail.com"
+
 # Clone Phoenix Firmware Dump
 git clone https://github.com/hendralizeStuff/phoenix_firmware_dumper fwdump && cd fwdump
 
